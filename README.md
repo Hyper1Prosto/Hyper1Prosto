@@ -18,7 +18,7 @@ Fullstack-разработчик из России. Пишу на TypeScript, с
 
 - 🔭 Сейчас работаю над **newlunar.space**
 - 💬 Пишите по поводу фриланса или совместных проектов
-- 📬 Telegram: [@Crypto_Fd](https://t.me/Crypto_Fd)ф
+- 📬 Telegram: [@Crypto_Fd](https://t.me/Crypto_Fd)
 
 ---
 
@@ -67,15 +67,15 @@ Fullstack-разработчик из России. Пишу на TypeScript, с
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hyper1Prosto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&locale=ru"/>
+  <img src="https://streak-stats.demolab.com?user=Hyper1Prosto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&locale=ru&date_format=j%20M.%20Y"/>
 </div>
 
 ---
 
-### 🏆 Трофеи
+### 🏆 Достижения
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hyper1Prosto&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hyper1Prosto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </div>
 
 ---
