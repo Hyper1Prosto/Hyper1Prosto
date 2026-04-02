@@ -12,13 +12,12 @@
 
 ---
 
-### 👋 Обо мне
+### 👋 Привет
 
-Fullstack-разработчик из России. Пишу на TypeScript, строю веб-приложения и Discord-боты — от дизайна до деплоя на свой сервер. Интересуюсь UI/UX, люблю когда всё выглядит и работает хорошо.
-
-- 🔭 Сейчас работаю над **newlunar.space**
-- 💬 Пишите по поводу фриланса или совместных проектов
-- 📬 Telegram: [@Crypto_Fd](https://t.me/Crypto_Fd)
+- 🔭 Fullstack-разработчик, работаю с TypeScript / JavaScript
+- 🌱 Изучаю и строю: веб-приложения, REST API, Discord-боты
+- 💼 Открыт к фрилансу и интересным проектам
+- 📫 Как со мной связаться: [@Crypto_Fd](https://t.me/Crypto_Fd)
 
 ---
 
@@ -68,14 +67,6 @@ Fullstack-разработчик из России. Пишу на TypeScript, с
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hyper1Prosto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&locale=ru&date_format=j%20M.%20Y"/>
-</div>
-
----
-
-### 🏆 Достижения
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hyper1Prosto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </div>
 
 ---
