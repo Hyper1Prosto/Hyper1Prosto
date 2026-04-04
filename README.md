@@ -12,61 +12,51 @@
 
 ---
 
-### 👋 Привет
+### Hi there 👋
 
-- 🔭 Fullstack-разработчик, работаю с TypeScript / JavaScript
-- 🌱 Изучаю и строю: веб-приложения, REST API, Discord-боты
-- 💼 Открыт к фрилансу и интересным проектам
-- 📫 Как со мной связаться: [@Crypto_Fd](https://t.me/Crypto_Fd)
+- 🔭 Currently working on my own projects
+- 🌱 Learning TypeScript, Next.js and backend development
+- 💬 Ask me about JavaScript / TypeScript
+- 📫 Reach me: [@Crypto_Fd](https://t.me/Crypto_Fd)
 
 ---
 
-### 🛠️ Стек
+### 🛠️ Tech Stack
 
 <div align="center">
 
-#### Языки
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-
-#### Фронтенд
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-
-#### Бэкенд
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Fastify](https://skillicons.dev/icons?i=fastify)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-
-#### Базы данных
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-#### Инструменты
+![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Discord](https://skillicons.dev/icons?i=discord)
 
 </div>
 
 ---
 
-### 📊 Статистика
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hyper1Prosto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&locale=ru"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper1Prosto&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&locale=ru"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hyper1Prosto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper1Prosto&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hyper1Prosto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&locale=ru&date_format=j%20M.%20Y"/>
+  <img src="https://streak-stats.demolab.com?user=Hyper1Prosto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&date_format=j%20M.%20Y"/>
 </div>
 
 ---
