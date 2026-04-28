@@ -1,7 +1,7 @@
 # Hyper1Prosto
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1233881531404124202/1378179058365628516/ac6594d5a572e00e6a977fd119872a1e.gif?ex=69f20384&is=69f0b204&hm=d6fcd00e44cdca0e517ea48feaabc8df19e8a3a7efe0b8799c09f1da0352b3e7">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hyper1Prosto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Middle%20Developer%20·%20TypeScript%20·%20JavaScript&descAlignY=55&descSize=16"/>
 </div>
 
 Middle Developer · TypeScript · JavaScript
